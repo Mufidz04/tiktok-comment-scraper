@@ -1,4 +1,4 @@
-This repository is a fork from [GitHub](https://github.com/RomySaputraSihananda/tiktok-comment-scrapper), with slight modifications to suit my research. The original code lacked relevant `--arguments`, so I adjusted it accordingly. The original code can be found ![Twitter: romy](https://img.shields.io/twitter/follow/RomySihananda)
+This repository is a fork from [GitHub](https://github.com/RomySaputraSihananda/tiktok-comment-scrapper), with slight modifications to suit my research. The original code lacked relevant `--arguments`, so I adjusted it accordingly. The author code can be found ![Twitter: romy](https://img.shields.io/twitter/follow/RomySihananda)
 
 # tiktok-comment-scrapper
 
@@ -31,10 +31,10 @@ python main.py --aweme_id=7170139292767882522 --output=data/
 
 ### Flags
 
-| Flag | Description | Example | Default |
-| :------- | :-----------------------------: | :-------------- | :-----------------: |
+| Flag       |           Description           | Example              |       Default       |
+| :--------- | :-----------------------------: | :------------------- | :-----------------: |
 | --aweme_id | Url or video id of tiktok video | --aweme_id=id or url | 7418294751977327878 |
-| --output | json file output path | --output=data/ | data |
+| --output   |      json file output path      | --output=data/       |        data         |
 
 ## Sample Output
 
