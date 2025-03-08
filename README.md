@@ -1,4 +1,4 @@
-[![Twitter: romy](https://img.shields.io/twitter/follow/RomySihananda)](https://twitter.com/RomySihananda)
+This repository is a fork from [GitHub](https://github.com/), with slight modifications to suit my research. The original code lacked relevant `--arguments`, so I adjusted it accordingly. The original code can be found ![Twitter: romy](https://img.shields.io/twitter/follow/RomySihananda)
 
 # tiktok-comment-scrapper
 
@@ -13,11 +13,11 @@ Get all comments from tiktok video url or id
 ## Installation
 
 ```sh
-# Clonig Repository
-git clone https://github.com/romysaputrasihananda/tiktok-comment-scrapper
+# Cloning Repository
+git clone https://github.com/Mufidz04/tiktok-comment-scraper
 
 # Change Directory
-cd tiktok-comment-scrapper
+cd tiktok-comment-scraper
 
 # Install Requirement
 pip install -r requirements.txt
@@ -26,16 +26,15 @@ pip install -r requirements.txt
 ## Example Usages
 
 ```sh
-python main.py --url=7170139292767882522 --size=10 --output=data
+python main.py --aweme_id=7170139292767882522 --output=data/
 ```
 
 ### Flags
 
-| Flag     | Alias |           Description           | Example         |       Default       |
-| :------- | :---: | :-----------------------------: | :-------------- | :-----------------: |
-| --url    |  -u   | Url or video id of tiktok video | --url=id or url | 7170139292767882522 |
-| --size   |  -s   |       number of comments        | --size=10       |         50          |
-| --output |  -o   |      json file output path      | --output=data   |        data         |
+| Flag | Description | Example | Default |
+| :------- | :-----------------------------: | :-------------- | :-----------------: |
+| --aweme_id | Url or video id of tiktok video | --aweme_id=id or url | 7418294751977327878 |
+| --output | json file output path | --output=data/ | data |
 
 ## Sample Output
 
