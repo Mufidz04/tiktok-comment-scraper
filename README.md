@@ -1,4 +1,4 @@
-This repository is a fork from [GitHub](https://github.com/), with slight modifications to suit my research. The original code lacked relevant `--arguments`, so I adjusted it accordingly. The original code can be found ![Twitter: romy](https://img.shields.io/twitter/follow/RomySihananda)
+This repository is a fork from [GitHub](https://github.com/RomySaputraSihananda/tiktok-comment-scrapper), with slight modifications to suit my research. The original code lacked relevant `--arguments`, so I adjusted it accordingly. The original code can be found ![Twitter: romy](https://img.shields.io/twitter/follow/RomySihananda)
 
 # tiktok-comment-scrapper
 
